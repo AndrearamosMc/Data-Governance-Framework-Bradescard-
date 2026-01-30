@@ -12,10 +12,10 @@ This project addresses those gaps from both a technical and business perspective
 
 # Objective
 The main goal was to design a practical data governance manual that could realistically be applied in a financial institution, with emphasis on:
--End-to-end data traceability
--Standardized documentation and metadata
--Clear roles and responsibilities for data ownership
--Support for reliable analytics and regulatory reporting
+- End-to-end data traceability
+- Standardized documentation and metadata
+- Clear roles and responsibilities for data ownership
+- Support for reliable analytics and regulatory reporting
 
 # Data Architecture
 The governance framework was designed to align with the organization’s existing Azure-based architecture:
