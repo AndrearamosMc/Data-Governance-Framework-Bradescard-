@@ -55,3 +55,11 @@ The proposed framework helps the organization:
  - Databricks
  - Data Lake & Medallion Architecture
  - Data Governance and Metadata Management
+
+### Data Architecture Overview
+![Data Architecture](diagrams/[ Final Presentation to Bradescard-2.pdf](https://github.com/user-attachments/files/24975547/Final.Presentation.to.Bradescard-2.pdf)
+)
+
+### Medallion Architecture Layers
+![Medallion Architecture](diagrams/![PHOTO-2025-10-21-20-04-34](https://github.com/user-attachments/assets/97982801-299d-4648-b2cd-ba33e67536ef)
+)
