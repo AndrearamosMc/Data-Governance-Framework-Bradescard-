@@ -57,8 +57,7 @@ The proposed framework helps the organization:
  - Data Governance and Metadata Management
 
 ### Data Architecture Overview
-![Data Architecture](diagrams/### Data Architecture Overview
-![Data Architecture](diagrams/architecture_overview.png)
+![Data Architecture](diagrams/PHOTO-2025-10-21-20-04-34.jpg)
 
 ### Medallion Architecture Layers
 ![Medallion Architecture](diagrams/medallion_layers.png))
