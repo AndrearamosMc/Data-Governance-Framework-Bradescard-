@@ -57,7 +57,11 @@ The proposed framework helps the organization:
  - Data Governance and Metadata Management
 
 ### Data Architecture Overview
-![Data Architecture](diagrams/[ Final Presentation to Bradescard-2.pdf](https://github.com/user-attachments/files/24975547/Final.Presentation.to.Bradescard-2.pdf)
+![Data Architecture](diagrams/### Data Architecture Overview
+![Data Architecture](diagrams/architecture_overview.png)
+
+### Medallion Architecture Layers
+![Medallion Architecture](diagrams/medallion_layers.png))
 )
 
 ### Medallion Architecture Layers
