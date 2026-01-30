@@ -60,7 +60,7 @@ The proposed framework helps the organization:
 ![Data Architecture](diagrams/PHOTO-2025-10-21-20-04-34.jpg)
 
 ### Medallion Architecture Layers
-![Medallion Architecture](diagrams/Captura de pantalla 2026-01-30 a la(s) 17.21.47.png)
+![Medallion Architecture](diagrams/Chttps://github.com/AndrearamosMc/Data-Governance-Framework-Bradescard-/blob/main/diagrams/Captura%20de%20pantalla%202026-01-30%20a%20la(s)%2017.21.47.png)
 
 
 ### Medallion Architecture Layers
