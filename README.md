@@ -27,31 +27,31 @@ Consumption: Dashboards, regulatory reports, and analytical models
 Each layer has defined responsibilities related to data quality, validation, and access.
 
 # Governance Components
-**Data Lineage**
+ - **Data Lineage**
 Data flows were documented from source systems to final consumption layers, enabling visibility for audits, impact analysis, and regulatory compliance.
-**Data Dictionary**
+ - **Data Dictionary**
 A standardized documentation approach was defined to ensure consistent definitions of fields, metrics, and entities across teams.
-**Source-to-Target Mapping**
+ - **Source-to-Target Mapping**
 Mappings were created to clearly show how data moves from operational systems into analytical outputs, supporting future changes and integrations.
-**Governance Policies**
+ - **Governance Policies**
 Guidelines were proposed for data ownership, access control, retention, and quality checks, aligned with financial regulatory requirements.
 
 
 # Value Delivered
 The proposed framework helps the organization:
--Improve confidence in data used for reporting and decision-making
--Reduce inconsistencies in metrics across teams
--Strengthen compliance through traceable and documented data flows
--Enable business users to work with trusted, well-defined datasets
+ - Improve confidence in data used for reporting and decision-making
+ - Reduce inconsistencies in metrics across teams
+ - Strengthen compliance through traceable and documented data flows
+ - Enable business users to work with trusted, well-defined datasets
 
 # Limitations and Next Steps
--Automate data quality checks and alerts
--Integrate a centralized metadata catalog
--Extend governance practices to real-time ingestion pipelines
--Operationalize governance rules through tooling and workflows
+ - Automate data quality checks and alerts
+ - Integrate a centralized metadata catalog
+ - Extend governance practices to real-time ingestion pipelines
+ - Operationalize governance rules through tooling and workflows
 
 # Tools and Concepts
--Microsoft Azure 
--Databricks
--Data Lake & Medallion Architecture
--Data Governance and Metadata Management
+ - Microsoft Azure 
+ - Databricks
+ - Data Lake & Medallion Architecture
+ - Data Governance and Metadata Management
