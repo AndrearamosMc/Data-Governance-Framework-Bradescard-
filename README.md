@@ -60,8 +60,8 @@ The proposed framework helps the organization:
 ![Data Architecture](diagrams/PHOTO-2025-10-21-20-04-34.jpg)
 
 ### Medallion Architecture Layers
-![Medallion Architecture](diagrams/medallion_layers.png))
-)
+![Medallion Architecture](Captura de pantalla 2026-01-30 a la(s) 17.21.47.png)
+
 
 ### Medallion Architecture Layers
 ![Medallion Architecture](diagrams/![PHOTO-2025-10-21-20-04-34](https://github.com/user-attachments/assets/97982801-299d-4648-b2cd-ba33e67536ef)
